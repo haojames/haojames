@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @haojames
+# Hi there
+
+- 👋 Hi, I’m @haojames 
 - 👀 I’m interested in security(PWN & RE) and Embedded System
 - 🌱 I’m currently learning at Bosch company
-<!---
-haojames/haojames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Exploit/RE](https://github.com/haojames/haojames/blob/main/avatar.png)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haojames)](https://github.com/anuraghazra/github-readme-stats)
